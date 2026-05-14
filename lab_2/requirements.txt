@@ -1,8 +1,0 @@
-music21
-librosa
-jupyter
-numpy
-mido
-pretty_midi
-ms3
-pandas
